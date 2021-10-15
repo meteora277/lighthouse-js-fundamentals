@@ -1,0 +1,11 @@
+function isOdd(num){
+
+  return (num % 2 !== 0 )
+
+}
+
+console.log(isOdd(31))
+console.log(isOdd(3))
+console.log(isOdd(7))
+console.log(isOdd(20))
+
